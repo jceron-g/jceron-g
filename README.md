@@ -2,7 +2,7 @@
 ### Welcome to my GitHub space! 😄
 My name is Jose. I'm a passionate self-learner and nature lover 🌲 📚. I'm an **Environmental Scientist** 🐢🌻 currently studying at [42 Málaga](https://www.42malaga.com/) in order to become a Software Developer.
 
-My areas of expertise include environmental sciences and customer satisfaction oriented services and I'm currently learning various programming languages and technologies. My goal is to expand and my knowledge in several technologies and introduce myself as a software developer in the tech sector.
+My areas of expertise include environmental sciences and customer satisfaction oriented services and I'm currently learning various programming languages and technologies. My goal is to expand my knowledge in several technologies and introduce myself as a software developer 💻 in the tech sector.
 <br />
 My areas of interest include:
 
