@@ -8,7 +8,7 @@ My areas of interest include:
 
 * 🎓 Specialization in Port Management.
 * 💧 Master's degree in Environmental Hydraulics.
-* 🌍Can speak several languages:English (high proficiency), French (conversational) and actually learning German.
+* 🌍Can speak several languages: English (high proficiency), French (conversational) and actually learning German.
 * 🏀 Love sports and former amateur basketball player.
 <p align="center">
 <i> Currently focused on: </i> <br />
