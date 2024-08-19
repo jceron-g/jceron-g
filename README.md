@@ -16,7 +16,9 @@ My areas of interest include:
   <summary> <b>Student at 42</b> </summary>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jceron-g?1337Badge=off&UM6P=off" alt="jceron-g's 42 stats" /></a>
 <br /><br />
-
 ## ▪️ You can reach me at:
 Email: jaceron95@gmail.com
-LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jos%C3%A9-antonio-cer%C3%B3n-guti%C3%A9rrez-0a111518a/)
+<br /><br />
+<a href="[https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/jos%C3%A9-antonio-cer%C3%B3n-guti%C3%A9rrez-0a111518a/)">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge">
+</a>
