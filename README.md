@@ -15,6 +15,8 @@ My areas of interest include:
 <code>C</code> | <code>Shell</code> | <code>Python</code>
   <summary> <b>Student at 42</b> </summary>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jceron-g?1337Badge=off&UM6P=off" alt="jceron-g's 42 stats" /></a>
+<br /><br />
+
 ## ▪️ You can reach me at:
 Email: jaceron95@gmail.com
 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jos%C3%A9-antonio-cer%C3%B3n-guti%C3%A9rrez-0a111518a/)
