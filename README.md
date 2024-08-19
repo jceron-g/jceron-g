@@ -17,8 +17,9 @@ My areas of interest include:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jceron-g?1337Badge=off&UM6P=off" alt="jceron-g's 42 stats" /></a>
 <br /><br />
 ## ▪️ You can reach me at:
+<br /><br />
 Email: jaceron95@gmail.com
 <br /><br />
-<a href="[https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/jos%C3%A9-antonio-cer%C3%B3n-guti%C3%A9rrez-0a111518a/)">
+LinkedIn: <a href="[https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/jos%C3%A9-antonio-cer%C3%B3n-guti%C3%A9rrez-0a111518a/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge">
 </a>
