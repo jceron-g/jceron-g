@@ -15,8 +15,7 @@ My areas of interest include:
 <code>C</code> | <code>Shell</code> | <code>Python</code>
   <summary> <b>Student at 42</b> </summary>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/jceron-g?1337Badge=off&UM6P=off" alt="jceron-g's 42 stats" /></a>
-## ▪️ Github Stats 📊
-
+## Github Stats 📊
 <p>
 <a href="https://github.com/jceron-g">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jceron-g&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
