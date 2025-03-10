@@ -34,11 +34,10 @@ I am currently a student at **42 Málaga**, where I am honing my skills in softw
 </a>
 
 ---
-
 ## Github Stats 📊
 <p>
 <a href="https://github.com/jceron-g">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jceron-g&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jceron-g&show_icons=true&theme=algolia"/>
 </a>
 <a href="https://github.com/jceron-g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jceron-g&layout=compact&langs_count=8&theme=algolia"/>
