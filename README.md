@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hello there 👋 
 ### Welcome to my GitHub space! 😄
 
 My name is Jose. I'm a passionate self-learner and nature lover 🌲📚. I'm an **Environmental Scientist** 🐢🌻 currently studying at [42 Málaga](https://www.42malaga.com/) to become a **Software Developer**.
